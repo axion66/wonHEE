@@ -1,0 +1,9 @@
+torch
+wandb
+matplotlib
+einops
+rotary-embedding-torch
+soft-moe-pytorch
+scikit-learn
+pandas
+scipy
