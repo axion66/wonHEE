@@ -1,1 +1,1 @@
-[Poster Version](https://github.com/axion66/wonHEE/poster.pdf)
+[Poster Version](https://github.com/axion66/wonHEE/blob/main/poster.pdf)
